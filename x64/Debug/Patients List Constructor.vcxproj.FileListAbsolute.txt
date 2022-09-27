@@ -1,0 +1,6 @@
+D:\LERN\Programing\Прооги\Patients List Constructor\Patients List Constructor\x64\Debug\Patients List Constructor.vcxproj.AssemblyReference.cache
+D:\LERN\Programing\Прооги\Patients List Constructor\Patients List Constructor\x64\Debug\Patients List Constructor.vcxproj.SuggestedBindingRedirects.cache
+D:\LERN\Programing\Прооги\Patients List Constructor\Patients List Constructor\x64\Debug\Patients List Constructor.vcxproj.GenerateResource.cache
+D:\LERN\Programing\Прооги\Patients List Constructor\Patients List Constructor\x64\Debug\PatientsListConstructor.InputForm.resources
+D:\LERN\Programing\Прооги\Patients List Constructor\Patients List Constructor\x64\Debug\PatientsListConstructor.GridForm.resources
+D:\LERN\Programing\Прооги\Patients List Constructor\Patients List Constructor\x64\Debug\PatientsListConstructor.OutputForm.resources
